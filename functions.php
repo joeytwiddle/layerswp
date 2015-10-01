@@ -154,7 +154,7 @@ if( ! function_exists( 'layers_setup' ) ) {
 				'sitetitle',
 				'tagline',
 			),
-			'size' => 'medium',
+			'size' => 'large',
 		) );
 
 		// Automatic Feed Links
